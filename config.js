@@ -9,7 +9,7 @@
 */
 
 var settings = {
-    'radio_name': 'Brasil Hits',
+    'radio_name': 'Radio Sokolica',
 
     // URL of streaming without / on the final, eg: https://sonic.mediacp.eu/mario/stream
     'url_streaming': 'https://sonic.mediacp.eu/mario/stream',
