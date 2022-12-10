@@ -12,7 +12,7 @@ var settings = {
     'radio_name': 'Brasil Hits',
 
     // URL of streaming without / on the final, eg: https://sonic.mediacp.eu/mario/stream
-    'url_streaming': 'https://streaming.brasilhits.com/acc',
+    'url_streaming': 'https://sonic.mediacp.eu/mario/stream',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
